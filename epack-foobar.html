@@ -1,0 +1,16 @@
+<link rel="import" href="../paper-foobar/paper-foobar.html">
+
+<dom-module id="epack-foobar">
+  <template>
+    <paper-foobar value="{{value}}" foobar="{{foobar}}"></paper-foobar>
+  </template>
+  <script>
+    Polymer({
+      is: 'epack-foobar',
+      properties: {
+        value: String,
+        foobar: String
+      }
+    });
+  </script>
+</dom-module>

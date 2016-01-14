@@ -1,0 +1,20 @@
+{
+  "name": "epack-foobar",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ePack/fill-blank",
+  "authors": [
+    "Maik Hummel <maik@eclip.io>"
+  ],
+  "description": "",
+  "main": "epack-foobar.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
